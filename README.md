@@ -3,8 +3,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/10zhu/GoldMiner">
+  <a href=["https://github.com/10zhu/GoldMiner"](https://github.com/10zhu/GoldMiner/assets/118295803/621bd530-6938-4059-a669-f6c8666e61a1)>
     <img src="misc/Gold Miner.jpg" alt="Logo" width="300">
+
+
+
+
   </a>
   <h3 align="center">Gold Miner Game</h3>
   
