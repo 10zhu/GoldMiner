@@ -8,6 +8,10 @@
 
 
 
+https://github.com/10zhu/GoldMiner/assets/118295803/d02cc620-065b-4a7f-b08a-7cb361c61dbb
+
+
+
 
   </a>
   <h3 align="center">Gold Miner Game</h3>
