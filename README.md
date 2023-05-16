@@ -8,8 +8,8 @@
 
 
 
-https://github.com/10zhu/GoldMiner/assets/118295803/d02cc620-065b-4a7f-b08a-7cb361c61dbb
 
+https://github.com/10zhu/GoldMiner/assets/118295803/adf990a0-4096-450f-9476-d0ebbc7ea04e
 
 
 
