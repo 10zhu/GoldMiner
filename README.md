@@ -38,7 +38,7 @@ This repo depends on the following packages:
 1. Before run the game, please make sure that you paste both of src and bin in the file. And your Eclipse could run JavaSE-18.
 2. The game should include 11 Classes, including 6 item class(Items, Gold, MiniGold, Rock, Diamond, Diamond) 2 claw class(Claw, Frame), 1 Panel class, 1 LoadSave class and 1 mainClass.
 3. Press PLAY to play, or press QUIT to quit.
-![image](https://github.com/10zhu/GoldMiner/assets/118295803/6b826c0c-0a20-42e4-8a43-18b90c564f40)
+![image](https://github.com/10zhu/GoldMiner/assets/118295803/ecec21ba-e735-43b3-aa51-319d95cf889b)
 4. Press down arrow to help Messi catch as many items as you can.
      Gold: $1000
      Diamond: $1200
